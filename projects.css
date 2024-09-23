@@ -10,3 +10,11 @@ p{
     padding: 50px;
     color: aliceblue;
 }
+
+.projectPic{
+    text-align: center;
+    display: block;
+}
+img{
+    display: block;
+}

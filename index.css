@@ -23,5 +23,8 @@ a{
     color: aliceblue;
 }
 #links{
-    margin-left: 330px;
+    margin-left: 22%;
+}
+#nameAndLinks{
+    display: inline;
 }
