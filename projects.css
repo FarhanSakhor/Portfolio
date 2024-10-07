@@ -13,7 +13,7 @@ p{
 
 .projectPic{
     text-align: center;
-    display: block;
+    display: inline;
 }
 img{
     display: block;
